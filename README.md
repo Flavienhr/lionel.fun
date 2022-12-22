@@ -1,23 +1,16 @@
-# parrot.live
+# lionel.fun
 
-An initiative, using frames from [`terminal-parrot`](https://github.com/jmhobbs/terminal-parrot), to allow any computer with `curl` to display an _animated_ party parrot.
+A fun project to allow all users to display the director of Epita Strasbourg on their terminal.
 
 # Try it!
 ```bash
-curl parrot.live
+curl curl lionel.fun
 ```
 
-# :partyparrot:
-<div align="center">
-  <img src='https://d.pr/i/jKluc0.gif' />
-</div>
-
 # Thanks
-* [jmhobbs](https://github.com/jmhobbs) for [`terminal-parrot`](https://github.com/jmhobbs/terminal-parrot), and for the animation frames
-* [Robert Koch](https://github.com/kochie/) and [Eric Jiang](https://github.com/lorderikir) for testing it, and giving feedback ⭐
+* [Hugo](https://github.com/hugomd) for the code forked from his porject : [`parrot.live`](https://github.com/hugomd/parrot.live), 
 
-# More Parrots
-* [cultofthepartyparrot.com](http://cultofthepartyparrot.com/)
-* [`terminal-parrot`](https://github.com/jmhobbs/terminal-parrot)
-* [`parrotsay`](https://github.com/matheuss/parrotsay)
-* [`ascii.live`](https://github.com/hugomd/ascii.live)
+# TODO
+* [ ] Add other images
+* [ ] Make it more fun
+* [ ] Add a web interface to import your own image
